@@ -4,7 +4,8 @@ import openai
 import os
 
 # OpenAI API Key
-os.environ["OPENAI_API_KEY"] = "sk-XXXXXX"  # Ersetze das mit deinem OpenAI-Schlüssel
+os.environ["OPENAI_API_KEY"] = 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
+
 
 # App-Titel
 st.title("Dokumentenbasierte Frage-Antwort-App")
